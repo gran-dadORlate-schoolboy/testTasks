@@ -1,0 +1,5 @@
+public enum MYCOLORS {
+    RED, BLUE, GREEN,YELLOW, GREY, CYAN,MAGENTA;
+
+
+}
